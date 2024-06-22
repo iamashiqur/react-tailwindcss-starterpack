@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* repeat class  */
+@layer components {
+  .sometingClassName {
+      @apply /*[REMOVE THIS LINE] tailwindcss classname*/
+    }
+}
+
+
+/* main class name START*/
+/* main class name END*/
