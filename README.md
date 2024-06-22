@@ -3,4 +3,5 @@
 ## before start the code remove/delete .git file
 
 ## Fix Eslint issues
-# run ` npx eslint . --fix `
+
+# run `npx eslint . --fix`
